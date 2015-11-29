@@ -41,7 +41,7 @@
 	<!-- Fim Footer -->
 
 
-	<script src="js/jquery.min.js"></script>
+	<script src="js/jquery-2.1.4.min.js"></script>
 	<script src="js/scripts.js"></script>
 </body>
 </html>
